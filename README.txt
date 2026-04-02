@@ -1,3 +1,10 @@
+________________________________________________________________________
+NOTE
+
+THIS PROJECT USES DATA FILES THAT ARE TOO LARGE TO BE CONTAINED IN GIT.
+IF YOU WISH TO REPRODUCE THESE RESULTS, CONTACT ME AT mam084@ucsd.edu
+________________________________________________________________________
+
 
 README.txt
 ASL Interpretation Project (WLASL Dataset)
